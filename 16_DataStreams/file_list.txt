@@ -1,0 +1,2 @@
+Listing all .txt files in bkp:
+-rw-r--r-- 1 Lenovo 197609 14 May 17 10:48 test.txt
