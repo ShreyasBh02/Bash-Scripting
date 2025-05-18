@@ -1,0 +1,4 @@
+[2025-05-18 20:25:40] Using package manager: choco
+[2025-05-18 20:25:40] Installing: make
+[2025-05-18 20:26:32] × Failed to install make.
+[2025-05-18 20:26:32] Installation completed. See install_log_2025-05-18_20-25-40.log for details.
